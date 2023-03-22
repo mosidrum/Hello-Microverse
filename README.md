@@ -218,9 +218,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ ] **[Change the color of text]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -258,17 +257,6 @@ I would like to thank my coding partner at microverse that guided me through
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
